@@ -1,0 +1,13 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
+voila
+matplotlib
+numpy
+seaborn
+scipy
+glob
+datetime
+dateutil
