@@ -8,6 +8,5 @@ matplotlib
 numpy
 seaborn
 scipy
-glob
 datetime
 dateutil
