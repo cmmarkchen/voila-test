@@ -6,7 +6,3 @@ plotly-express
 voila
 matplotlib
 numpy
-seaborn
-scipy
-datetime
-dateutil
